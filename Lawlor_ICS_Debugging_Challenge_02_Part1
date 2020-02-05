@@ -4,7 +4,7 @@
 
 # Code pulled from my TBRPG GUI Project
 
-# Consistency is key...
+# Ideally, the program should create a GUI window with a non-functional TBRPG "game," complete with two characters and a background
 # RUNTIME ERROR COUNT: 1
 
 # Import tkinter and random
