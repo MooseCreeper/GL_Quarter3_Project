@@ -2,9 +2,9 @@
 # Debugging Challenge #2 (PART I)
 # 02/03/2020
 
-# Code pulled from my TBRPG GUI Project
+# Code pulled from the TBRPG GUI Project
 
-# Ideally, the program should create a GUI window with a non-functional TBRPG "game," complete with two characters and a background
+# Ideally, the program should create a GUI window with a non-functional TBRPG "game"
 # RUNTIME ERROR COUNT: 1
 
 # Import tkinter and random
